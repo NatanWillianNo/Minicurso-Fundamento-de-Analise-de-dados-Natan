@@ -11,3 +11,5 @@ dependencies:
   - matplotlib
   - geckodriver
   - pyarrow
+  - dateutil.parser 
+  - datetime
